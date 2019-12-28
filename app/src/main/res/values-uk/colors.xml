@@ -4,7 +4,7 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="bg_rect">#673AB7</color>
-    <color name="first">#FFFFFF</color>
-    <color name="second">#390291</color>
-    <color name="third">#E22727</color>
+    <color name="first">#390291</color>
+    <color name="second">#FFEA00</color>
+    <color name="third">#FFFFFF</color>
 </resources>
